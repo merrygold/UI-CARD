@@ -1,7 +1,7 @@
 # UI-CARD
 # Frontend Mentor - Four card feature section
 
-![Design preview for the Four card feature section coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Four card feature section coding challenge](https://github.com/merrygold/UI-CARD/blob/master/four-card-feature-section-master/design/desktop-preview.jpg?raw=true)
 
 ## Welcome! 👋
 
